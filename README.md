@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4baf4f?style=for-the-badge&logo=mongodb&logoColor=61DAFB">
 </a>
 
-<a href="https://dev.mysql.com/doc/">
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-
 <a href="https://tailwindcss.com/docs/">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>
